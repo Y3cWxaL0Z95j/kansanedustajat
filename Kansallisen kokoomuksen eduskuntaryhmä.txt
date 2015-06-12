@@ -24,7 +24,7 @@ Wille Rydman <wille.rydman@eduskunta.fi>
 Pertti Salolainen <pertti.salolainen@eduskunta.fi>
 Sari Sarkomaa <sari.sarkomaa@eduskunta.fi>
 Arto Satonen <arto.satonen@eduskunta.fi>
-Saara-Sofia Sirén <saara-sofia.sirén@eduskunta.fi>
+Saara-Sofia Sirén <saara-sofia.siren@eduskunta.fi>
 Alexander Stubb <alexander.stubb@eduskunta.fi>
 Eero Suutari <eero.suutari@eduskunta.fi>
 Mari-Leena Talvitie <mari-leena.talvitie@eduskunta.fi>

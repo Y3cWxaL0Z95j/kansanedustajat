@@ -3,7 +3,7 @@ Eva Biaudet <eva.biaudet@eduskunta.fi>
 Thomas Blomqvist <thomas.blomqvist@eduskunta.fi>
 Carl Haglund <carl.haglund@eduskunta.fi>
 Anna-Maja Henriksson <anna-maja.henriksson@eduskunta.fi>
-Mats Löfström <mats.lpfstrpm@eduskunta.fi>
+Mats Löfström <mats.lofstrom@eduskunta.fi>
 Mikaela Nylander <mikaela.nylander@eduskunta.fi>
 Mats Nylund <mats.nylund@eduskunta.fi>
 Joakim Strand <joakim.strand@eduskunta.fi>

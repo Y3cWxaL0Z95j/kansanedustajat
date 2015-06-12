@@ -42,7 +42,7 @@ Juha Sipilä <juha.sipila@eduskunta.fi>
 Martti Talja <martti.talja@eduskunta.fi>
 Kimmo Tiilikainen <kimmo.tiilikainen@eduskunta.fi>
 Ari Torniainen <ari.torniainen@eduskunta.fi>
-Tapani Tölli <tapani.tplli@eduskunta.fi>
+Tapani Tölli <tapani.tolli@eduskunta.fi>
 Matti Vanhanen <matti.vanhanen@eduskunta.fi>
 Mirja Vehkaperä <mirja.vehkapera@eduskunta.fi>
 Anu Vehviläinen <anu.vehvilainen@eduskunta.fi>

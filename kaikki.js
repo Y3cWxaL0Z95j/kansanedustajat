@@ -1,11 +1,11 @@
 fs = require('fs')
 
-var raw = fs.readFileSync('./edust.txt').toString().split("\n"),
+var raw = fs.readFileSync('./kaikki.txt').toString().split("\n"),
 	ryhmat = {};
 
 for (i in raw) {
 	if (i % 2 === 0) {
-		var edust = raw[i] + ' <' + raw[i].toLowerCase().replace(' ', '.').replace(/[ä]/g, 'a').replace(/[ö]/g, 'p').replace(/[å]/g, 'a') + '@eduskunta.fi' + '>';
+		var edust = raw[i] + ' <' + raw[i].toLowerCase().replace(' ', '.').replace(/[ä]/g, 'a').replace(/[ö]/g, 'o').replace(/[å]/g, 'a').replace(/[é]/g, 'e') + '@eduskunta.fi' + '>';
 	}
 	else {
 		if (!ryhmat[raw[i]]) {

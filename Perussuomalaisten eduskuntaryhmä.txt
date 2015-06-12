@@ -12,7 +12,7 @@ Toimi Kankaanniemi <toimi.kankaanniemi@eduskunta.fi>
 Kimmo Kivelä <kimmo.kivela@eduskunta.fi>
 Kari Kulmala <kari.kulmala@eduskunta.fi>
 Rami Lehto <rami.lehto@eduskunta.fi>
-Jari Lindström <jari.lindstrpm@eduskunta.fi>
+Jari Lindström <jari.lindstrom@eduskunta.fi>
 Maria Lohela <maria.lohela@eduskunta.fi>
 Anne Louhelainen <anne.louhelainen@eduskunta.fi>
 Pirkko Mattila <pirkko.mattila@eduskunta.fi>
@@ -20,11 +20,11 @@ Leena Meri <leena.meri@eduskunta.fi>
 Jani Mäkelä <jani.makela@eduskunta.fi>
 Lea Mäkipää <lea.makipaa@eduskunta.fi>
 Hanna Mäntylä <hanna.mantyla@eduskunta.fi>
-Martti Mölsä <martti.mplsa@eduskunta.fi>
+Martti Mölsä <martti.molsa@eduskunta.fi>
 Mika Niikko <mika.niikko@eduskunta.fi>
-Jussi Niinistö <jussi.niinistp@eduskunta.fi>
+Jussi Niinistö <jussi.niinisto@eduskunta.fi>
 Pentti Oinonen <pentti.oinonen@eduskunta.fi>
-Tom Packalén <tom.packalén@eduskunta.fi>
+Tom Packalén <tom.packalen@eduskunta.fi>
 Mika Raatikainen <mika.raatikainen@eduskunta.fi>
 Jari Ronkainen <jari.ronkainen@eduskunta.fi>
 Veera Ruoho <veera.ruoho@eduskunta.fi>
